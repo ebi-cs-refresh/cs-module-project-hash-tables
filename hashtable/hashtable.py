@@ -72,6 +72,7 @@ class HashTable:
         Implement this, and/or FNV-1.
         """
         # Your code here
+        pass
 
     def hash_index(self, key):
         """
