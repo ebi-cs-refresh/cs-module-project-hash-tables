@@ -1,0 +1,6 @@
+hash tables -> something that takes
+
+Hash functions
+any string input --> a specific number -- within some range
+most important feature
+this function must be determininistic -> input returns same output
